@@ -1,1 +1,2 @@
-# Employee-Attrition-Pridiction
+# Employee-Attrition
+Data analytics competition by CNA IITG
